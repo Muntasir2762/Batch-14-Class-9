@@ -1,0 +1,16 @@
+
+
+1. Inline
+2. Internal
+3. Ecternal
+
+
+======CSS unit=====
+1. pixel (px)
+2. %
+
+======Properties===
+
+1.border
+2.margin (top bottom left right)
+3.padding (top bottom left right)
